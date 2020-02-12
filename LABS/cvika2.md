@@ -16,17 +16,24 @@
 &nbsp;
 
 |**A>B**||	
+| :-: | :-: |
 | 0 | 1 |	
 | 0 | 0 |	
-&nbsp;
+
+
+
 |**A=B**||	
+| :-: | :-: |
 | 1 | 0 |	
 | 0 | 1 |	
-&nbsp;
+
+
+
 |**A<B**||
+| :-: | :-: |
 | 0 | 0 |
 | 1 | 0 |
 
 &nbsp; 
 &nbsp;
-![equation](https://latex.codecogs.com/gif.latex?y_{A<B}^{PoS}(\bar{A}+\bar{A})*(A+\bar{B})+(A+B)) 
+![equation](https://latex.codecogs.com/gif.latex?y_{A<B}^{PoS,min}=\bar{A}*B) 
