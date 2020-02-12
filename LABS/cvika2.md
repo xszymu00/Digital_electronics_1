@@ -38,4 +38,4 @@
 
 &nbsp; 
 
-![equation](https://latex.codecogs.com/gif.latex?y_{A<B}^{PoS,min}=\bar{A}*B) 
+![equation](https://latex.codecogs.com/gif.latex?y_{A<B}^{PoS_{min}}=(\bar{A}.B)) 
